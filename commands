@@ -22,3 +22,5 @@ basically adds changes to an array
 stash pop will pull out each change as if it's popping them out of the array
 
 git log - shows all commits with SHAs
+
+git checkout [sha]
