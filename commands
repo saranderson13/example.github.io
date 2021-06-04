@@ -9,3 +9,6 @@ when you accidentally open vim (git commit but don't add comment)
 i - to start typing
 
 try push without specifying origin
+
+show file in terminal
+cat file.txt
