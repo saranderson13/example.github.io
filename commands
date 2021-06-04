@@ -26,3 +26,6 @@ git log - shows all commits with SHAs
 git checkout [sha] - shows the file content at that commit
 git checkout main - goes back to current version of file
 
+branching:
+can make a branch remotely (on github) or locally (on my comp)
+if created remotely, your local machine will be aware of it if you pull, but won't track it
