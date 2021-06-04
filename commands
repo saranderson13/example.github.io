@@ -12,3 +12,13 @@ try push without specifying origin
 
 show file in terminal
 cat file.txt
+
+git stash - changes your locally
+git pull - pull most up to date repo
+git stash pop - add your local changes to the most up to date repo
+
+can stash more than one change to a file
+basically adds changes to an array
+stash pop will pull out each change as if it's popping them out of the array
+
+git log - shows all commits with SHAs
