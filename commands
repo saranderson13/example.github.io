@@ -23,4 +23,6 @@ stash pop will pull out each change as if it's popping them out of the array
 
 git log - shows all commits with SHAs
 
-git checkout [sha]
+git checkout [sha] - shows the file content at that commit
+git checkout main - goes back to current version of file
+
